@@ -1,5 +1,5 @@
 # WorkoutBuilder
-XAMARIN APP for ios
+MANU APP for ios
 
 To do:
 1) CRUD of training exercises
